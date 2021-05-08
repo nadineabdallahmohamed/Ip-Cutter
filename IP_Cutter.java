@@ -2,7 +2,7 @@ package ip_cutter;
 
 import java.util.*;
 
-public class IPCUTTER {
+public class IP_Cutter{
     public static void main(String[] args)
     {
         Scanner myObj = new Scanner(System.in);
