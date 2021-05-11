@@ -1,11 +1,11 @@
 package cutter;
 
-public class user {
+public class User {
 	
 	private String name;
     private  String address;
     
-    public user(String n) {
+    public User(String n) {
     	
     	name=n;
     }
