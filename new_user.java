@@ -1,7 +1,7 @@
 package cutter;
 
-public class Merchant extends Customer {
-	public Merchant(String name) {
+public class new_user extends  user {
+	public new_user(String name) {
 		
 		super(name);
 	}
