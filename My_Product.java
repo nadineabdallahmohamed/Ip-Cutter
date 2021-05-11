@@ -1,6 +1,6 @@
 package cutter;
 
-public class Product {
+public class My_Product {
 	
 	private  String product;
 
