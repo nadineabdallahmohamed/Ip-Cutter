@@ -1,10 +1,10 @@
 package cutter;
 
-public class Test {
+public class Try_Cutter {
 	
 	private int  age;
 	private float salary;
-	public Test (int age,float salary) {
+	public Try_Cutter (int age,float salary) {
 		this.age=age;
 		this.setSalary(salary);
 		
