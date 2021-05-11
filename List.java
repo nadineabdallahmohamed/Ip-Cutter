@@ -17,7 +17,7 @@ public class List {
 		return productsli;
 	}
 
-	public void setProductsli(Product [] productsli) {
+	public void setProductsli(My_Product [] productsli) {
 		this.productsli = productsli;
 	}
 	
