@@ -1,17 +1,17 @@
 package cutter;
 
-public class my_order {
-	private  new_order he;
-	private line  l;
-	public my_order(OrderHeader h,OrderLine l) {
+public class My_Order {
+	private  New_Order he;
+	private Line  l;
+	public My_Order(New_Order h,Line l) {
 		
 		he=h;
 		this.l=l;
 	}
 
-	private user oredredby;
+	private User oredredby;
 
-	public user getOredredby() {
+	public User getOredredby() {
 		return oredredby;
 	}
 
