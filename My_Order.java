@@ -15,7 +15,7 @@ public class My_Order {
 		return oredredby;
 	}
 
-	public void setOredredby(user oredredby) {
+	public void setOredredby(User oredredby) {
 		this.oredredby = oredredby;
 	}
 	
