@@ -1,6 +1,6 @@
 package cutter;
 
-public class OrderLine {
+public class Line {
 	
 	private Product item;
 	private int noUints ;
