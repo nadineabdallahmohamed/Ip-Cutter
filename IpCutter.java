@@ -1,6 +1,6 @@
 package cutter;
 
-public class IpCutter extends user {
+public class IpCutter extends User {
 	public IpCutter(String name) {
 		
 		super(name);
