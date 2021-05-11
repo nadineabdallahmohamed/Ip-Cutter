@@ -3,7 +3,7 @@ package cutter;
 public class Main {
 public static void main(String [] arga)
 {
-	Cutter c=new Cutter("163.121.12.30");
+	cut c=new cut("163.121.12.30");
 	
 	int[] ip=c.cut();
 	
