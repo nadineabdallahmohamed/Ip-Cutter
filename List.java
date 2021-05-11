@@ -3,7 +3,7 @@ package cutter;
 public class List {
 	private String listname;
 	
-	private Product [] productsli;
+	private My_Product [] productsli;
 
 	public String getListname() {
 		return listname;
@@ -13,7 +13,7 @@ public class List {
 		this.listname = listname;
 	}
 
-	public Product [] getProductsli() {
+	public My_Product [] getProductsli() {
 		return productsli;
 	}
 
