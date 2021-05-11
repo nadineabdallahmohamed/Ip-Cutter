@@ -1,21 +1,21 @@
 package cutter;
 
-public class Order {
-	private  OrderHeader he;
-	private OrderLine  l;
-	public Order(OrderHeader h,OrderLine l) {
+public class my_order {
+	private  new_order he;
+	private line  l;
+	public my_order(OrderHeader h,OrderLine l) {
 		
 		he=h;
 		this.l=l;
 	}
 
-	private Customer oredredby;
+	private user oredredby;
 
-	public Customer getOredredby() {
+	public user getOredredby() {
 		return oredredby;
 	}
 
-	public void setOredredby(Customer oredredby) {
+	public void setOredredby(user oredredby) {
 		this.oredredby = oredredby;
 	}
 	
