@@ -9,7 +9,7 @@ public class Line {
 		return item;
 	}
 
-	public void setItem(Product item) {
+	public void setItem(My_Product  item) {
 		this.item = item;
 	}
 
