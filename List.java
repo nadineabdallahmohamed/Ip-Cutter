@@ -1,6 +1,6 @@
 package cutter;
 
-public class PoductList {
+public class List {
 	private String listname;
 	
 	private Product [] productsli;
