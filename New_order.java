@@ -1,6 +1,6 @@
 package cutter;
 import java.util.Date;
-public class OrderHeader {
+public class New_order {
 	
 	private Date orderDate;
 
