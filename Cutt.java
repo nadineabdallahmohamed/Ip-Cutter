@@ -1,8 +1,8 @@
 package cutter;
 
-public class cut {
+public class Cutt {
     private String ip;
-	public cut(String ip)
+	public Cutt(String ip)
 	{
 		this.ip=ip;
 		
