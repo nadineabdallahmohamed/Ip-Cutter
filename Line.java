@@ -2,10 +2,10 @@ package cutter;
 
 public class Line {
 	
-	private Product item;
+	private My_Product item;
 	private int noUints ;
 
-	public Product getItem() {
+	public My_Product getItem() {
 		return item;
 	}
 
