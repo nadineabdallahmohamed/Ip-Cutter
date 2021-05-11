@@ -1,7 +1,7 @@
 package cutter;
 
-public class Consumer extends Customer {
-	public Consumer(String name) {
+public class IpCutter extends Customer {
+	public IpCutter(String name) {
 		
 		super(name);
 	}
