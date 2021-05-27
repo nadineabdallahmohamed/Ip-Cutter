@@ -1,4 +1,4 @@
-package cutter;
+package Ip-Cutter;
 
 public class List {
 	private String listname;
