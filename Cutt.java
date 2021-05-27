@@ -1,4 +1,4 @@
-package cutter;
+package Ip-Cutter;
 
 public class Cutt {
     private String ip;
