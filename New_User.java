@@ -1,4 +1,4 @@
-package cutter;
+package Ip-Cutter;
 
 public class New_User extends  User {
 	public New_User(String name) {
